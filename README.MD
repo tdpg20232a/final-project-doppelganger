@@ -2,7 +2,7 @@
 
 - Students using the traditional classroom will have an advantage over the digital twin environments
 
-- Students in the alternate digital twin environment will report higher levels of engagement and satisfaction compared to students in the traditional classroom setting. 
+- Students in the alternate digital twin environment will report higher levels of engagement and satisfaction compared to students in the original digital twin classroom setting. 
 
   
 
@@ -48,7 +48,7 @@
 
 # Population: 
 
-- The GiGa Lab Room and the students in it 
+- The GiGa Lab Room and the students in the digital twins environment and the physical classroom
 
   
 
@@ -70,7 +70,7 @@
 
 ## Participant:  
 
-### 10 Student: 
+### 15 Student: 
 
 - 5 Students `Tradisional Class` 
 
@@ -90,7 +90,7 @@
 The traditional classroom is assumed to be the ideal state and will be used to improve the digital twins environment
 
 ## Digital Twins Environment 
-Digital twins environment is done simultaneously with the traditional class to have a direct comparison
+The first digital twins environment is done simultaneously with the traditional class to have a direct comparison
 
 ## Alternate Digital Twins Environment 
 An alternate digital twin environment will be deployed to find the impact of the new environment.
