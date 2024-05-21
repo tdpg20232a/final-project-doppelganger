@@ -1,16 +1,16 @@
 # Hypothesis: 
 
-- Students using the digital twin environment will have higher post-test scores compared to students in the traditional classroom setting. 
+- Students using the traditional classroom will have an advantage over the digital twin environments
 
-- Students in the digital twin environment will report higher levels of engagement and satisfaction compared to students in the traditional classroom setting. 
+- Students in the alternate digital twin environment will report higher levels of engagement and satisfaction compared to students in the traditional classroom setting. 
 
   
 
 # Research Questions: 
 
-- Does the use of a digital twin environment improve students' understanding and retention of the lesson compared to a traditional classroom setting? 
+- How can we improve the digital twin based on the results of the physical classroom?
 
-- How does the digital twin environment affect student engagement and satisfaction during the learning process? 
+- What advantages does the physical classroom have over the digital twin and what can be done to close the gap?
 
   
 
@@ -21,6 +21,8 @@
 - Tradisional Class 
 
 - Digital Twin Environment 
+
+- Alternate Digital Twin Environment
 
 ## Dependent Variable: 
 
@@ -62,7 +64,7 @@
 
 ## Research Design: 
 
-- To compare the learning outcomes between traditional classroom settings and digital twin environments, where students can control their view during the lesson. 
+- To compare the learning outcomes between traditional classroom settings and digital twin environments, and improve the digital twin based on the physical classroom.
 
   
 
@@ -74,6 +76,8 @@
 
 - 5 Students `Digital Twins Enviroment` 
 
+- 5 Students in alternate `Digital Twins Enviroment` 
+
   
 
 ## Pre-study Preparation 
@@ -83,8 +87,13 @@
 - Training for Group B: Instruct the students on how to access and utilize the DT platform. 
 
 ## Tradisional Class 
+The traditional classroom is assumed to be the ideal state and will be used to improve the digital twins environment
 
 ## Digital Twins Environment 
+Digital twins environment is done simultaneously with the traditional class to have a direct comparison
+
+## Alternate Digital Twins Environment 
+An alternate digital twin environment will be deployed to find the impact of the new environment.
 
 ## Pre-Test:  
 
@@ -115,8 +124,8 @@
 - Analysis method .... 
 
 ## Result  
-- Learning Outcomes: Determine if there is a significant difference in learning outcomes between the two groups. 
+- Learning Outcomes: Determine if there is a significant difference in learning outcomes between the three groups. 
 
 - Engagement and Preferences: Assess student engagement and preferences for each learning environment. 
 
-- Implications for Future Teaching: Discuss potential benefits and drawbacks of integrating digital twin environments in educational settings. 
+- Implications for Future Teaching: Discuss potential improvements, drawbacks and advantages of integrating digital twin environments in educational settings based on the physical classroom.
