@@ -131,6 +131,6 @@ An alternate digital twin environment will be deployed to find the impact of the
 - Implications for Future Teaching: Discuss potential improvements, drawbacks and advantages of integrating digital twin environments in educational settings based on the physical classroom.
 
 
-#Questionnaire(Likert Scale)
-How focused were you during the course of the class?
-How engaged were you during the course of the class?
+# Questionnaire(Likert Scale)
+- How focused were you during the course of the class?
+- How engaged were you during the course of the class?

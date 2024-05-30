@@ -1,3 +1,15 @@
-# SKETCH 3D Lab GiGa
+# Paper Progress
+> [*Improving Germane Cognitive Load on Classroom Digital Twins*](https://itsacid-my.sharepoint.com/:w:/g/personal/6025231011_student_its_ac_id/EWSYMCrahGhDnd6QW7nKByUBr0lrVlqCFIkx5vQZOQdchw?e=voUDBX)
 
-![N|Solid](assets\3dassets\sketch3dlabgigav.1.jpg)
+# SKETCH 3D Lab GiGa
+![N|Solid](https://raw.githubusercontent.com/tdpg20232a/final-project-doppelganger/main/assets/3dassets/sketch3dlabgigav.1.jpg)
+
+# BAB 1
+
+# BAB 2
+In this research, (Trier Mortlock, 2021) offers a conceptual view of the future of cognitive digital twins and their application in relation to Industry 4.0, with an emphasis on innovation initiated with the aim of changing manufacturing systems. This brings a research problem to the horizon, namely the need for better digital twins that can leverage the implicit knowledge gained from manufacturing systems, and support more client-oriented decision making. The aim is to propose a new type of graph learning that should support cognition in DT, at a specific manufacturing stage namely product design. This method involves a query-based approach, with three core steps: Therefore, the learning objective in this part of the exercise is to understand the basic modeling of graph generation, graph operations, and graph representation. This framework is based on graph learning to implement cognitive abilities in the areas of reasoning, problem solving, and learning. In a given research trial, the inefficiency of the introduced framework has been observed using a large experiment that shows the power of graph learning solutions for cognitive functions in digital twins, especially those related to product development and production. This paper also discusses limitations, gaps, and future efforts toward CDT development in a manufacturing context and provides opportunities for cross-language adoption in heterogeneous research communities.
+
+(Briana B. Morrison. 2014) focused on research-related concerns in the transfer and validation of CLCS to students in first-year computer science courses. The aim is to apply and assess various components of cognitive load in teaching and learning practices to achieve improved learning. This method involves using an existing survey instrument for a new scientific branch, confirming an initial factor model in the new context of this branch, and collecting data from two different sections of an introductory computer science course. This study assesses the cognitive load issue of a particular course at various points in the course, and argues for the benefit of having the ability to assess elements of cognitive load in introductory computer science. These findings also demonstrate the flexibility and construct validity of the survey's baseline for assessing the cognitive load portion of the first year of CS, which will provide an important basis for assessing the impact of future learning improvements while underscoring the need for additional refinement. surveys and large-scale data accumulation. As with all research using surveys, there are limitations to be aware of and areas for improvement as listed However, this research has provided insight into how different wording in survey questions could be improved for future research thereby expanding data collection on another course. and instructor.
+
+
+# BAB 3
