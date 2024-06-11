@@ -1,7 +1,8 @@
-[gd_scene load_steps=5 format=3 uid="uid://c3l5l65lpalsg"]
+[gd_scene load_steps=6 format=3 uid="uid://c3l5l65lpalsg"]
 
 [ext_resource type="PackedScene" uid="uid://nqsvpqklgboq" path="res://scene/World.tscn" id="1_2gjao"]
 [ext_resource type="Script" path="res://scene/Table.gd" id="1_gdwgw"]
+[ext_resource type="PackedScene" uid="uid://ct1321m5lrt71" path="res://scene/Screen.tscn" id="3_i43qv"]
 
 [sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_upfl1"]
 
@@ -36,8 +37,11 @@ text = "< Back"
 
 [node name="World" parent="." instance=ExtResource("1_2gjao")]
 
+[node name="Screen" parent="." instance=ExtResource("3_i43qv")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.06055, 1.18085, 5.53008)
+
 [node name="CameraTable1" type="Camera3D" parent="."]
-transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, -1.76355, 0.619904, 1.09669)
+transform = Transform3D(-700, 0, -0.000105697, 0, 700, 0, 0.000105697, 0, -700, -1.76355, 0.619904, 1.09669)
 fov = 39.6587
 
 [node name="CameraTable2" type="Camera3D" parent="."]
@@ -45,7 +49,7 @@ transform = Transform3D(-0.988559, -0.00334206, -0.150798, 0.00109773, 0.999569,
 fov = 53.4375
 
 [node name="CameraTable3" type="Camera3D" parent="."]
-transform = Transform3D(-0.951583, -0.00797756, -0.30729, 0.00109773, 0.999569, -0.0293492, 0.307391, -0.0282655, -0.951163, -3.23074, 0.657868, 1.07712)
+transform = Transform3D(-0.951583, -0.00797755, -0.307289, 0.00109773, 0.999569, -0.0293492, 0.307391, -0.0282655, -0.951163, -3.23074, 0.657868, 1.07712)
 fov = 57.0257
 
 [node name="CameraTable4" type="Camera3D" parent="."]
