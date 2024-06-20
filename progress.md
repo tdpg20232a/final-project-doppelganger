@@ -8,4 +8,4 @@
 ![N|Solid](https://raw.githubusercontent.com/tdpg20232a/final-project-doppelganger/main/3DModels/assets/3dassets/sketch3dlabgigav.1.jpg)
 
 # AR Progress
-![N|Solid](https://raw.githubusercontent.com/tdpg20232a/final-project-doppelganger/main/3DModels/assets/3dassets/AR-version.gif)
+![N|Solid](https://raw.githubusercontent.com/tdpg20232a/final-project-doppelganger/main/3DModels/assets/3dassets/progress.v2.gif)
