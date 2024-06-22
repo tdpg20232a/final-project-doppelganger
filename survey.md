@@ -59,11 +59,11 @@
 |----------------|---------------|------|------|-----|------|------|------|--------------------|
 | Participant 10 | DT            |   14 |    2 |   4 |   14 |    6 |   12 |                    |
 | Participant 09 | DT            |   18 |    6 |   4 |   16 |   19 |   12 |                    |
-| Participant 08 | DT            |   190|    6 |  12 |   10 |   16 |   16 |                    |
-| Participant 07 | DT            |   180|    4 |   8 |   14 |   16 |    8 |                    |
-| Participant 06 | DT            |   140|    2 |   6 |   18 |   14 |    6 |                    |
-| Participant 05 | Trad          |   150|   15 |   6 |    5 |   14 |   18 |                    |
-| Participant 04 | Trad          |   130|   11 |  12 |   12 |   13 |   10 |                    |
+| Participant 08 | DT            |   19 |    6 |  12 |   10 |   16 |   16 |                    |
+| Participant 07 | DT            |   18 |    4 |   8 |   14 |   16 |    8 |                    |
+| Participant 06 | DT            |   14 |    2 |   6 |   18 |   14 |    6 |                    |
+| Participant 05 | Trad          |   15 |   15 |   6 |    5 |   14 |   18 |                    |
+| Participant 04 | Trad          |   13 |   11 |  12 |   12 |   13 |   10 |                    |
 | Participant 03 | Trad          |   14 |   17 |  17 |   18 |   18 |   15 |                    |
 | Participant 02 | Trad          |   14 |   13 |  14 |    9 |   13 |   13 |                    |
 | Participant 01 | Trad          |   17 |   16 |  16 |   18 |   18 |   12 |                    |
