@@ -18,14 +18,14 @@
 
 
 ####  NASA Task Load Index
-|   | NASA Task Load Index Questions                                                      | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|-------------------------------------------------------------------------------------|---|---|---|---|---|---|---|---|---|----|
-| 1 | Mental,   Demand How mentally demanding was the task?                               |   |   |   |   |   |   |   |   |   |    |
-| 2 | Physical,   Demand How physically demanding was the task?                           |   |   |   |   |   |   |   |   |   |    |
-| 3 | Temporal,   Demand How hurried or rushed was the pace of the task?                  |   |   |   |   |   |   |   |   |   |    |
-| 4 | Performance,   How successful were you in accomplishing what you were asked to do?  |   |   |   |   |   |   |   |   |   |    |
-| 5 | Effort,   How hard did you have to work to accomplish your level of performance?    |   |   |   |   |   |   |   |   |   |    |
-| 6 | Frustration,   How insecure, discouraged, irritated, stressed, and annoyed wereyou? |   |   |   |   |   |   |   |   |   |    |
+|   | NASA Task Load Index Questions                                                      | 1 - 20 |
+|---|-------------------------------------------------------------------------------------|--------|
+| 1 | Mental,   Demand How mentally demanding was the task?                               |        |
+| 2 | Physical,   Demand How physically demanding was the task?                           |        |
+| 3 | Temporal,   Demand How hurried or rushed was the pace of the task?                  |        |
+| 4 | Performance,   How successful were you in accomplishing what you were asked to do?  |        |
+| 5 | Effort,   How hard did you have to work to accomplish your level of performance?    |        |
+| 6 | Frustration,   How insecure, discouraged, irritated, stressed, and annoyed wereyou? |        |
 
 #### Engagement Survey
 |No  |Questions                                                   | Strongly Disagree | Slightly | Slightly Disagree | Agree | Strongly Agree |
