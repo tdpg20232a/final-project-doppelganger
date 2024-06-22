@@ -12,7 +12,6 @@
 
 - What advantages does the physical classroom have over the digital twin and what can be done to close the gap?
 
-  
 
 # Variable: 
 
