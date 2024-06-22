@@ -22,7 +22,6 @@
 
 - Digital Twin Environment 
 
-- Alternate Digital Twin Environment
 
 ## Dependent Variable: 
 
@@ -30,7 +29,7 @@
 
 - Student Engagement 
 
-- Student Satisfaction 
+- NASA TLX Workload
 
   
 
@@ -38,11 +37,11 @@
 
 - Learning Outcomes 
 
-- Feedback 
+- Germane Cognitive Load
 
-- Survey 
+- Student Engagement
 
-- Student Satisfaction 
+
 
   
 
@@ -76,8 +75,6 @@
 
 - 5 Students `Digital Twins Enviroment` 
 
-- 5 Students in alternate `Digital Twins Enviroment` 
-
   
 
 ## Pre-study Preparation 
@@ -92,8 +89,6 @@ The traditional classroom is assumed to be the ideal state and will be used to i
 ## Digital Twins Environment 
 The first digital twins environment is done simultaneously with the traditional class to have a direct comparison
 
-## Alternate Digital Twins Environment 
-An alternate digital twin environment will be deployed to find the impact of the new environment.
 
 ## Pre-Test:  
 
@@ -106,6 +101,7 @@ An alternate digital twin environment will be deployed to find the impact of the
 ## Formative Assessments: 
 
 - Periodic quizzes and assessments to gauge ongoing understanding and retention of the material. 
+
 
 ## Interactive learning:  
 
@@ -121,7 +117,7 @@ An alternate digital twin environment will be deployed to find the impact of the
 
 - Compare pre-test and post-test scores within and between groups. 
 
-- Analysis method .... 
+- Analysis method using NASA's Task Load Index to calculate germane cognitive load
 
 ## Result  
 - Learning Outcomes: Determine if there is a significant difference in learning outcomes between the three groups. 
@@ -131,6 +127,5 @@ An alternate digital twin environment will be deployed to find the impact of the
 - Implications for Future Teaching: Discuss potential improvements, drawbacks and advantages of integrating digital twin environments in educational settings based on the physical classroom.
 
 
-# Questionnaire(Likert Scale)
-- How focused were you during the course of the class?
-- How engaged were you during the course of the class?
+# Questionnaire and Results (In survey.md)
+
