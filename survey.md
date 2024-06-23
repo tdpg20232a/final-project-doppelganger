@@ -41,7 +41,7 @@
 
 ### Tradisional Class
 <audio controls>
-  <source src="https://raw.githubusercontent.com/tdpg20232a/final-project-doppelganger/main/3DModels/assets/Teaching-evidence-2024-06-21.aac" type="audio/aac">
+  <source src="https://raw.githubusercontent.com/tdpg20232a/final-project-doppelganger/main/3DModels/assets/Teaching-evidence-2024-06-21.mp3" type="audio/mp3">
   Your browser does not support the audio element.
 </audio>
 
