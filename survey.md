@@ -40,10 +40,11 @@
 ## Survey Result
 
 ### Tradisional Class
-<audio controls>
-  <source src="https://raw.githubusercontent.com/tdpg20232a/final-project-doppelganger/main/3DModels/assets/Teaching-evidence-2024-06-21.mp3" type="audio/mp3">
-  Your browser does not support the audio element.
-</audio>
+
+https://github.com/tdpg20232a/final-project-doppelganger/assets/52367374/5c4cc9c8-5fa9-477f-a048-92edcaf2edb4
+
+
+
 
 ### Test Result
 |                | Type                  | Pre-Test | Post-Test | Comparison |
